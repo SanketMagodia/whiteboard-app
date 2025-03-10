@@ -18,7 +18,7 @@ This project is a React-based whiteboard application that allows users to draw, 
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/whiteboard-app.git
+git clone https://github.com/SanketMagodia/whiteboard-app.git
 ```
 ### Install Dependencies:
 ```bash
